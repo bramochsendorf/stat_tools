@@ -1,7 +1,9 @@
 # stat_tools
 Handy functions / statistical toolbox for day-to-day research
 
-This repository will be populated with some cool functions and statistical routines to get the best out of your astronomical dataset. Function/routines are uploaded as IPython Notebooks and run with a simple examples. Check some of my latest publications if you want to see them in full action. 
+This repository will be populated with some cool functions and statistical routines to get the best out of your astronomical dataset. Function/routines are uploaded as IPython Notebooks and run with simple examples. Check some of my latest publications if you want to see them in full action: 
+
+http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Bibliography&libid=59e511d09d 
 
 Description of the files
 
